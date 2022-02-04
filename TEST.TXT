@@ -10,3 +10,8 @@ git config--global user.name
 
 git add test.
 dkanrjsk
+fds
+dmddo
+아무말
+gmdj
+
