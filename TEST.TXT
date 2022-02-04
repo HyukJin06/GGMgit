@@ -1,0 +1,11 @@
+java가 짱이야 
+이클립스 만새
+저장 단축키 컨트롤 S
+오오
+저장 완료
+ctrl ~ 
+git init :해당 폴더를 깃에서 관리하는 폴더로
+초기화
+git config--global user.name
+
+git add test.
