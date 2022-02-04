@@ -9,3 +9,4 @@ git init :해당 폴더를 깃에서 관리하는 폴더로
 git config--global user.name
 
 git add test.
+dkanrjsk
